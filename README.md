@@ -50,7 +50,7 @@ Used NLP techniques with NLTK + Scikit-learn. Built during my ML course at UNC.
 ## 📫 Let’s Connect!
 📍 Currently in: Charlotte, NC (Originally Bradford, UK)  
 🔗 [LinkedIn](https://www.linkedin.com/in/sana-ullah-58193b311/)  
-📧 sanaullah.dev@gmail.com
+📧 m.sanaullahjaved@gmail.com
 
 ---
 
