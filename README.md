@@ -1,75 +1,136 @@
-# 👋 Hey there! I'm Sana Ullah
+# Hi, I'm Sana Ullah 👋
 
-🎓 Computer Science Student | 💻 Software Engineer @ Summit Street | 🌍 Exchange Student @ UNC Charlotte  
-🚀 Passionate about solving real-world problems with code, building full-stack applications, and learning one technology at a time.
+### Software Engineer • Product Engineer • AI Researcher • Builder
 
----
+I'm a Computer Science student at **UNC Charlotte** with academic and engineering experience across the **United States and United Kingdom**.
 
-## 💼 Who Am I?
+I enjoy building real-world software at the intersection of **Software Engineering, Artificial Intelligence, Full-Stack Development, FinTech, and AI Safety Research**.
 
-- 🧠 A developer who thrives in new environments (yes, I switched continents and nailed a 3.75 GPA!)
-- 💻 Software Engineer at [Summit Street Research](https://www.linkedin.com/company/summit-street-research/) — building data pipelines in the FinTech space
-- 👩‍🎓 Final year CS student at University of Bradford + Exchange program at UNC Charlotte
-- 🌐 I love web development, machine learning, and clean, modular code
-- 💬 Outside the screen? I'm the go-to teammate for debugging *and* pizza recommendations 🍕
+My journey has taken me from studying Computer Science at the **University of Bradford 🇬🇧**, to completing an exchange year at **UNC Charlotte 🇺🇸 with a 3.77 GPA (7 A's, 2 B's)**, to working on production software, startups, and independent AI research.
 
 ---
 
-## 🔨 Projects I’m Proud Of
+## 🚀 What I'm Doing
 
-### 📦 [Smart Dinner Manager](https://github.com/Sunny27317/SmartDinnerManager)
-> C++ OOP system that lets users manage meals, ingredients, and dish recommendations.  
-Built as my final OOP coursework — complete with clean structure, UML design, and CLI interaction.
+💻 **Software Engineering** — Building backend systems, APIs, data pipelines, and production software.
 
-### ⚙️ [Online Compiler](https://github.com/Sunny27317/online_compiler)
-> A browser-based code runner using Docker + Node.js to securely compile and execute code.  
-Deployed to simulate real-world IDE behavior — ideal for learning environments.
+🧩 **Product Engineering** — Turning business requirements into practical, user-focused technology solutions.
 
-### 🤖 [Sentiment Analyzer](https://github.com/Sunny27317/Sentiment-Analyzer)
-> A machine learning model that classifies financial news headlines as positive/negative.  
-Used NLP techniques with NLTK + Scikit-learn. Built during my ML course at UNC.
+🧠 **AI Safety Research** — Investigating cross-lingual Chain-of-Thought monitorability and whether safety monitoring remains reliable across languages.
+
+🚀 **CEO & CTO @ SoftLaunch** — Building technology and products for an early-stage startup.
+
+🎓 **Computer Science @ UNC Charlotte** — Continuing my final year of undergraduate study.
 
 ---
 
-## 🛠 Tech Stack & Skills
+## 🔬 Featured Research
 
-- **Languages:** C++, Python, JavaScript, Java, HTML/CSS  
-- **Frameworks & Tools:** Node.js, Express, Git, Docker, React (learning!)  
-- **Concepts:** OOP, REST APIs, File Handling, Regression Models, Decision Trees  
-- **Soft Skills:** Quick adaptation, strong communicator, deadline-driven, positive energy 💫
+### 🌍 Cross-Lingual Safety Monitorability
 
----
+Researching whether AI safety monitors remain reliable when model reasoning moves across languages, with an initial focus on English and Urdu.
 
-## 🧠 Currently Working On
-- Web development projects with React & Tailwind  
-- Publishing a portfolio site with GitHub Pages  
-- Learning cloud basics (AWS & Firebase)
+**Research areas:**
+`AI Safety` `LLMs` `Chain-of-Thought` `Cross-Lingual AI` `Model Evaluation` `Python`
+
+→ Explore the research repository below.
 
 ---
 
-## 📫 Let’s Connect!
-📍 Currently in: Charlotte, NC (Originally Bradford, UK)  
-🔗 [LinkedIn](https://www.linkedin.com/in/sana-ullah-58193b311/)  
-📧 m.sanaullahjaved@gmail.com
+## 🛠️ Selected Projects
+
+### 🚀 SoftLaunch
+
+A full-stack startup platform designed to help founders and builders collaborate, develop ideas, and access technology-enabled services.
+
+**Stack:** Next.js • TypeScript • Tailwind CSS • Prisma • Supabase • Clerk • Stripe • Resend • Vercel
 
 ---
 
-> “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”  
-— Martin Fowler
+### 📊 FinTech & Data Engineering
 
-Thanks for visiting! ⭐ If you like what you see, feel free to connect or drop me a message.
+Built backend systems and data-processing workflows supporting quantitative research and financial analytics.
 
-<!--
-**Sunny27317/Sunny27317** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Technologies:** Python • APIs • Data Pipelines • Backend Systems • Automation
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤖 Machine Learning Projects
+
+Developed machine-learning systems involving classification, prediction, clustering, and real-world datasets.
+
+**Technologies:** Python • Scikit-learn • kNN • Naive Bayes • Logistic Regression • Random Forest • K-Means
+
+---
+
+### 🌐 Full-Stack Development
+
+Built web applications and digital products using modern frontend, backend, database, authentication, and cloud technologies.
+
+**Technologies:** React • Next.js • JavaScript • TypeScript • Node.js • Tailwind CSS • Supabase • MySQL
+
+---
+
+## ⚡ Technical Toolbox
+
+**Languages**
+
+`Python` `Java` `JavaScript` `TypeScript` `C++` `Swift` `Kotlin` `HTML` `CSS`
+
+**Frontend**
+
+`React` `Next.js` `Tailwind CSS` `SwiftUI`
+
+**Backend & Data**
+
+`Node.js` `Express` `REST APIs` `MySQL` `Supabase` `Prisma`
+
+**AI / ML**
+
+`Scikit-learn` `Machine Learning` `LLM Evaluation` `AI Safety`
+
+**Tools & Platforms**
+
+`Git` `GitHub` `Docker` `Vercel` `Azure` `Xcode` `Android Studio`
+
+---
+
+## 🌎 My Journey
+
+🇬🇧 **University of Bradford**
+Computer Science
+
+↓ International Exchange
+
+🇺🇸 **UNC Charlotte**
+Computer Science • Exchange Year: **3.77 GPA | 7 A's + 2 B's**
+
+↓ Building beyond the classroom
+
+💻 **Software Engineering**
+🚀 **Startup Leadership**
+🧩 **Product Engineering**
+🔬 **AI Safety Research**
+
+---
+
+## 🎯 What I'm Interested In
+
+I'm particularly interested in opportunities involving:
+
+**Software Engineering • AI Engineering • Full-Stack Engineering • Backend Engineering • AI/ML • Research Engineering**
+
+I enjoy environments where I can **build, experiment, solve difficult problems, and take ownership of meaningful technical work.**
+
+---
+
+## 🤝 Let's Connect
+
+💼 LinkedIn: **Sana Ullah**
+💻 GitHub: **@Sunny27317**
+
+I'm always happy to connect with engineers, researchers, founders, recruiters, and others building interesting technology.
+
+---
+
+### ⭐ Build things. Test ideas. Learn continuously.
